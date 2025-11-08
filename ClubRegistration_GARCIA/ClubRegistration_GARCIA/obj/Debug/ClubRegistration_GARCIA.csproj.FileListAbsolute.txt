@@ -1,0 +1,12 @@
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\bin\Debug\ClubRegistration_GARCIA.exe.config
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\bin\Debug\ClubRegistration_GARCIA.exe
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\bin\Debug\ClubRegistration_GARCIA.pdb
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.csproj.AssemblyReference.cache
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.FrmClubRegistration.resources
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.Properties.Resources.resources
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.csproj.GenerateResource.cache
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.csproj.CoreCompileInputs.cache
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.exe
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.pdb
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.exe.config
+C:\Website\C_GARCIA\WindowsForms\ClubRegistration_GARCIA\ClubRegistration_GARCIA\obj\Debug\ClubRegistration_GARCIA.AttendanceRecord.resources
